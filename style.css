@@ -1,0 +1,18 @@
+body{
+	font-family: 'Arial';
+	font-size: 12px;
+}
+table{
+	width: 100%;
+	margin: 0 auto;
+	border: none;
+}
+thead{
+	background: #cecece;
+}
+tbody tr:hover{
+	background: #efefef;
+}
+td{
+	padding: 5px;
+}
